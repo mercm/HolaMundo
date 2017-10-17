@@ -1,0 +1,6 @@
+git config --global user.name [USERNAME]
+git config --global user.email [EMAIL]
+git commint
+git clone [URL]
+git diff
+git add [FILES]
