@@ -4,4 +4,7 @@ Repositorio creado durante el taller de git, github en el 2017. Dicho taller pro
 
 
 
-LIBRELABUCM ES LA MEJOR ASOCIACIÓN DEL MUNDO - Hazte socio https://librelabucm.org/ - ¡Síguenos! https://twitter.com/LibreLabUCM
+LIBRELABUCM ES LA MEJOR ASOCIACIÓN DEL MUNDO
+
+  - Hazte socio https://librelabucm.org/
+  - ¡Síguenos! https://twitter.com/LibreLabUCM
