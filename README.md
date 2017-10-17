@@ -8,3 +8,5 @@ LIBRELABUCM ES LA MEJOR ASOCIACIÓN DEL MUNDO
 
   - Hazte socio https://librelabucm.org/
   - ¡Síguenos! https://twitter.com/LibreLabUCM
+
+Gran taller, mejores profesores
